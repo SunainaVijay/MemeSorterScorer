@@ -1,0 +1,26 @@
+[
+	{   "name":"Trump", 
+            "url" :"http://cdn.buzzlie.com/wp-content/uploads/2015/11/7fdb7915fbf8efac92042dc2e99b3675.jpg",
+	    "lulz_score": "0"
+	},
+	
+	{   "name":"Obama", 
+            "url" :"http://www.takepart.com/sites/default/files/obama10.png",
+	    "lulz_score": "0"
+	},
+
+	{   "name":"Hillary", 
+            "url" :"http://frontporchideologist.com/wp-content/uploads/2016/03/Best.jpg",
+	    "lulz_score": "0"
+	},
+
+	{   "name":"Bernie", 
+            "url" :"http://thefederalistpapers.integratedmarket.netdna-cdn.com/wp-content/uploads/2015/10/imageedit_2054_8668384447.jpg",
+	    "lulz_score": "0"
+	},
+
+	{   "name":"Marco", 
+            "url" :"http://i3.kym-cdn.com/photos/images/facebook/000/498/549/651.jpg",
+	    "lulz_score": "0"
+	}
+]
